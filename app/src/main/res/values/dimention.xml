@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="dimMessage">40sp</dimen>
+    <dimen name="dimEditTextNom">20sp</dimen>
+    <dimen name="dimButtonEnvoyer">20sp</dimen>
+    <dimen name="dimTextViewNom">20sp</dimen>
+</resources>

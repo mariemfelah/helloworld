@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bonjour nom</string>
+    <string name="nom">Entrer votre nom </string>
+    <string name="nomHint">Taper votre nom ici</string>
+    <string name="bouton">Envoyer</string>
+    <string name="bnj">Bonjour</string>
+</resources>
